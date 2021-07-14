@@ -22,7 +22,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\BattleshipStateMangement\BattleshipStateMangement.csproj" />
+    <ProjectReference Include="..\..\Production\BattleshipStateMangement\BattleshipStateMangement.csproj" />
     <ProjectReference Include="..\SharedBattleTestFramework\SharedBattleTestFramework.csproj" />
   </ItemGroup>
 

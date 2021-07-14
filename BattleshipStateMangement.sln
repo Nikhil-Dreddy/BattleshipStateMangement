@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BattleshipStateMangement", "BattleshipStateMangement\BattleshipStateMangement.csproj", "{759E92D6-ED73-47EF-B528-3E59D253160B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BattleshipStateMangement", "Production/BattleshipStateMangement/BattleshipStateMangement.csproj", "{759E92D6-ED73-47EF-B528-3E59D253160B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BattleshipStateMangementUnitTests", "BattleshipStateMangementUnitTests\BattleshipStateMangementUnitTests.csproj", "{2903CA9A-6436-4591-875D-796B7B9C99DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BattleshipStateMangementUnitTests", "Tests/BattleshipStateMangementUnitTests/BattleshipStateMangementUnitTests.csproj", "{2903CA9A-6436-4591-875D-796B7B9C99DD}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BattleshipStateMangementIntegrationTests", "BattleshipStateMangementIntegrationTests\BattleshipStateMangementIntegrationTests.csproj", "{900C729A-96ED-44E4-8AD2-01231D3F14F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BattleshipStateMangementIntegrationTests", "Tests/BattleshipStateMangementIntegrationTests/BattleshipStateMangementIntegrationTests.csproj", "{900C729A-96ED-44E4-8AD2-01231D3F14F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedBattleTestFramework", "SharedBattleTestFramework\SharedBattleTestFramework.csproj", "{7FD48D5D-55EB-4632-B642-7E52E4D94BA8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedBattleTestFramework", "Tests/SharedBattleTestFramework/SharedBattleTestFramework.csproj", "{7FD48D5D-55EB-4632-B642-7E52E4D94BA8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Production", "Production", "{ECF7B4D1-F0D4-4DFA-86B9-F1BE70A43495}"
 EndProject
